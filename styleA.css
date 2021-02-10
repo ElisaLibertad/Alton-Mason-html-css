@@ -1,0 +1,39 @@
+body {
+  background-color: #fcfcfc;
+
+}
+
+#main {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 16px auto;
+    width: 450px;
+}
+
+a {
+  color: #1abc9c;
+}
+
+#image-caption {
+  color: #999999;
+  font-size: 12px;
+  line-height: 19px;
+}
+
+#header-image {
+  border-radius: 4px;
+  box-shadow: 0px 10px 56px -29px rgba(0,0,0,0.75);
+  width: 450px;
+}
+
+#title {
+  padding-top: 32px;
+  color: black;
+  font-size: 26px;
+  line-height: 42px;
+}
+
+#tribute-info {
+    color: #C6C6C6 !important;
+}
